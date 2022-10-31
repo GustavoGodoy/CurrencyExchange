@@ -1,11 +1,11 @@
 ﻿using System;
 namespace Jala_university_Aula13
 {
-    public class WalletService : IWalletService
+    public class Exchange : IExchange
     {
         private readonly IWallet _wallet;
 
-        public WalletService(IWallet wallet)
+        public Exchange(IWallet wallet)
         {
               _wallet = wallet;
         }
@@ -34,15 +34,6 @@ namespace Jala_university_Aula13
             }
         }
 
-        public void AddToBalance(decimal amount)
-        {
-            _wallet.AddToBalance(amount);
-        }
-
-        public decimal GetBalance()
-        {
-            return _wallet.Balance;
-        }
     }
 }
 
