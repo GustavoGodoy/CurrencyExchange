@@ -36,11 +36,7 @@ namespace Jala_university_Aula13
 
         public void AddToBalance(decimal amount)
         {
-            if(amount <= 0)
-            {
-                throw new InvalidOperationException("amount cant be 0 or negative number");
-            }
-            _wallet.Balance += amount;
+            _wallet.AddToBalance(amount);
         }
 
         public decimal GetBalance()

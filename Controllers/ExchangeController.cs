@@ -29,7 +29,7 @@ public class ExchangeController : Controller
     public IActionResult AddMoneyToWallet(decimal amount)
     {
         _walletService.AddToBalance(amount);
-        return Ok("Valor foi adicionado a carteira");
+        return Ok("Amount add to the wallet");
     }
 
 }
