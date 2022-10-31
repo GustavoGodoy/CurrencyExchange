@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "P1SlYNk4UzkVv7QcCNjN/9ZjL7k1dwDMnWO0MHKof9IAaVO+2L5vLjxP/rUmEQsRqpVV8YdSX5iS9pMh8fr36g==",
+  "dgSpecHash": "X/oyLAueswlJ4/CVQbdwUdTfzdLvQYTDE424J18wv4KV+JFhENhlp2Ss1fhwcXKcbdpW7cxSHapv9qS8ysojAQ==",
   "success": true,
-  "projectFilePath": "/Users/gustavogodoy/Documents/Projects/Dot Net/Jala-university-Aula13/Jala-university-Aula13/Jala-university-Aula13.csproj",
+  "projectFilePath": "/Users/gustavogodoy/Documents/Projects/Dot Net/CurrencyExchange/Jala-university-Aula13.csproj",
   "expectedPackageFiles": [
     "/Users/gustavogodoy/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "/Users/gustavogodoy/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",

@@ -5,9 +5,9 @@ namespace Jala_university_Aula13.Controllers;
 [Route("api/[controller]/[action]")]
 public class ExchangeController : Controller
 {
-    private readonly IWallet _walletService;
+    private readonly IWalletService _walletService;
 
-    public ExchangeController(IWallet walletService)
+    public ExchangeController(IWalletService walletService)
     {
         _walletService = walletService;
     }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/gustavogodoy/Documents/Projects/Dot Net/Jala-university-Aula13/Jala-university-Aula13/Jala-university-Aula13.csproj": {}
+    "/Users/gustavogodoy/Documents/Projects/Dot Net/CurrencyExchange/Jala-university-Aula13.csproj": {}
   },
   "projects": {
-    "/Users/gustavogodoy/Documents/Projects/Dot Net/Jala-university-Aula13/Jala-university-Aula13/Jala-university-Aula13.csproj": {
+    "/Users/gustavogodoy/Documents/Projects/Dot Net/CurrencyExchange/Jala-university-Aula13.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/gustavogodoy/Documents/Projects/Dot Net/Jala-university-Aula13/Jala-university-Aula13/Jala-university-Aula13.csproj",
+        "projectUniqueName": "/Users/gustavogodoy/Documents/Projects/Dot Net/CurrencyExchange/Jala-university-Aula13.csproj",
         "projectName": "Jala-university-Aula13",
-        "projectPath": "/Users/gustavogodoy/Documents/Projects/Dot Net/Jala-university-Aula13/Jala-university-Aula13/Jala-university-Aula13.csproj",
+        "projectPath": "/Users/gustavogodoy/Documents/Projects/Dot Net/CurrencyExchange/Jala-university-Aula13.csproj",
         "packagesPath": "/Users/gustavogodoy/.nuget/packages/",
-        "outputPath": "/Users/gustavogodoy/Documents/Projects/Dot Net/Jala-university-Aula13/Jala-university-Aula13/obj/",
+        "outputPath": "/Users/gustavogodoy/Documents/Projects/Dot Net/CurrencyExchange/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/gustavogodoy/.nuget/NuGet/NuGet.Config"
