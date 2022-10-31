@@ -5,7 +5,7 @@ namespace Jala_university_Aula13
     {
         int Id { get; set; }
         private const string WalletCurrency = "BRL";
-        decimal Balance { get; set; }
+        decimal Balance { get; }
 
         public void AddToBalance(decimal amount);
         

@@ -5,7 +5,7 @@ public class Wallet : IWallet
   
     public int Id { get; set; }
     public const string WalletCurrency = "BRL";
-    public decimal Balance { get;  set; }
+    public decimal Balance { get;  private set; }
     
     public void AddToBalance(decimal amount)
     {
@@ -15,6 +15,5 @@ public class Wallet : IWallet
         Balance += amount;
 
     }
-
 
   }
